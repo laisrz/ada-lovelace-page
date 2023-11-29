@@ -1,3 +1,36 @@
 #icon {
     margin: 0 10px 0 10px;
 }
+
+.titles {
+    margin-left: 4rem;
+    margin-bottom: 2rem;
+}
+
+.content-bio {
+    margin-left: 3rem;
+    margin-bottom: 2rem;
+    margin-right: 3rem;
+}
+
+
+
+.container-paragraphs {
+    margin-right: 3rem;
+    margin-bottom: 2rem;
+    border-radius: 4rem;
+}
+
+.paragraphs {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+    text-align: justify;
+}
+
+#imgAda {
+    width: 25rem;
+    height: 25rem;
+    border-radius: 10%;
+    margin-bottom: 2rem;
+}
